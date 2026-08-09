@@ -7,6 +7,7 @@ This analysis was part of an MBA project to highlight skills learned in python a
 
 ## 🎨 Analytical Visuals Preview
 Below is a preview of a seaborn and matplotlib visuals
+![Alt_Text](Output/Participation_over_time.gif)
 ![Alt Text](Output/parity_sport.png)
 
 
