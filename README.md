@@ -8,7 +8,7 @@ This analysis was part of an MBA project to highlight skills learned in python a
 ## 🎨 Analytical Visuals Preview
 Below is a preview of a seaborn and matplotlib visuals
 
-![Carrier Scorecard Dashboard](https://github.com/kelsiestahly-hub/transportation-carrier-scorecard/blob/main/Dashboard/Scorecard%20Screenshot.png)
+![Olympics-Analysis]([https://github.com/kelsiestahly-hub/transportation-carrier-scorecard/blob/main/Dashboard/Scorecard%20Screenshot.png](https://github.com/kelsiestahly-hub/Olympics-Analysis/blob/main/Output/parity_country.png))
 
 ---
 
