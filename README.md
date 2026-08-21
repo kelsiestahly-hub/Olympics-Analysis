@@ -22,7 +22,7 @@ Below is a preview of a seaborn and matplotlib visuals
 
 ## 💻 Featured Analytics Code
 
-### Advanced Dynamic Carrier Ranking (Python)
+### Animated graphic (Python)
 This block of codes generates a looping animated graphic showing the steady growth of women's participation in the Olympics over time
 
 ```python
